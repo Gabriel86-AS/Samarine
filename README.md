@@ -6,8 +6,10 @@ It is made with a 3D printed chassis and 2 custom PCB boards (files on this repo
  
 ## Why do this project?
 Well, I live in a city where marine biology is very diverse and people from all over the country come to study it. But for local students, this kind of research is not always accessible, since you would need to acquire expensive diving equipment and courses in order to be able to explore the marine environment. Samarine is a way to make research more accessible. V1 includes just a camera, but it also leaves many ESP32 pins free to use for module attachment. Being completely open source, people can make their own modules and perform different kinds of research for a fraction of the cost of diving (sometimes even with more precision).
- 
-# Motor distribution
+
+ ## propeler 
+ you can use any. but im planning to use this https://www.printables.com/model/405235 for toroidal propelers
+## Motor distribution
  
 It has 3 motors: one to go up and down, and two for going forward and turning left or right.
  
